@@ -1,0 +1,54 @@
+.forestgreen-color{
+   color:#228B22
+}
+ body{
+   font-family: sans-serif;
+   color:#800000;
+   line-height:26px;
+   
+}
+.half-width{
+   width: 50%;
+   float: left;
+   
+   
+}
+.side-img{
+    width:50%;
+    padding-left: 25%;
+    
+    }
+ .primary-btn{
+    color:#668B8B;
+    background-color: #add8e6;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration: none ;
+ }
+ h1{
+font-size:1.8em;
+}
+.container{
+    padding-left: 5% ;
+    display: inline-block ;
+}
+
+
+
+.square-btn{
+      padding: 20px 48px 20px 48px;
+      
+}    
+.experiences{
+     padding: 30px;
+     margin: 30px;
+     background-color:rgb(238,251,255) ;
+     border-radius: 20px;
+}
+.experience-item{
+     padding: 20px;
+     border-left:1px solid rgba(137,130,247,.2)
+}
+ 
+
+
